@@ -1,2 +1,1 @@
-# medsafe-ng-backend
-Repository for medsafe-ng-backend web app
+# This readme repository is for the medsafe-ng-backend MedSafe web app.
